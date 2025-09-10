@@ -1,0 +1,1 @@
+whisper "kay kay.mp4" --language es --model small --output_format txt
